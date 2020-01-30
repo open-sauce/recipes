@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-* beef mince
+* ground beef
 * onion
 * red pepper
 * oregano
